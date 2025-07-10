@@ -36,4 +36,4 @@ Todo o histórico de conversões é salvo em um arquivo `historico.json` para fu
 ### ✒️ Autor
 
 Feito por [Luy](https://github.com/seu-usuario).  
-[🔗 LinkedIn](https://linkedin.com/in/seu-usuario) • [🐈‍⬛ GitHub](https://github.com/seu-usuario)
+[🔗 LinkedIn](https://linkedin.com/in/luyaragao) • [🐈‍⬛ GitHub](https://github.com/luyaragao/)
