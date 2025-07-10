@@ -31,6 +31,8 @@ Todo o histórico de conversões é salvo em um arquivo `historico.json` para fu
 - **Gson**: Biblioteca do Google para manipulação de objetos Java e JSON.
 - **ExchangeRate-API**: API para consulta de taxas de câmbio.
 
+<img width="500" height="500" alt="Badge-Conversor" src="https://github.com/user-attachments/assets/23ff90f1-e354-4425-8176-523ed235909e" />
+
 ---
 
 ### ✒️ Autor
